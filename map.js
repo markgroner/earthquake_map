@@ -17,7 +17,7 @@ function createMapLayer(mapStyle, token) {
 // Create a map object
 var myMap = L.map("map", {
   center: graphCenter,
-  zoom: 7
+  zoom: 5
 });
 
 
